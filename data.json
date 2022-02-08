@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "Redmi Note 8 Pro",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 9750
+    },
+    "color": "Halo White, Gamma Green, Shadow Black",
+    "brand": "Xiaomi India",
+    "description": "Redmi Note 8 Pro Specifications: Helio G90T with LiquidCool Technology, Alexa built-in, Splash-proof design, Protected by P2i, Aura Fluid Design, Type-C | 18W Fast Charger in-box Variants: 6GB+64GB, 6GB+128GB and 8GB+128GB",
+    "offers": {
+      "@type": "Offer",
+      "itemCondition": "http://schema.org/NewCondition",
+      "availability": "http://schema.org/InStock",
+      "price": "15999",
+      "priceCurrency": "INR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "Redmi Note 9 Pro",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 2616
+    },
+    "color": "Glacier White, Interstellar Black, Aurora Blue",
+    "brand": "Xiaomi India",
+    "description": "Redmi Note 9 Pro Specifications:  48MP AI Quad Camera Array, 16.9cm (6.67) FHD+ DotDisplay, Qualcomm® Snapdragon™ 720G, Side-Mounted Fingerprint Sensor, 5020mAh batteryand more. Variants: 4GB+64GB and 6GB+128GB",
+    "offers": {
+      "@type": "Offer",
+      "itemCondition": "http://schema.org/NewCondition",
+      "availability": "http://schema.org/InStock",
+      "price": "12999",
+      "priceCurrency": "INR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "Redmi Note 7 Pro",
+    "color": "Neptune Blue, Space Black, Nebula Red",
+    "brand": "Xiaomi India",
+    "description": "48MP AI Dual camera, Qualcomm® Snapdragon™ 675 processor, Qualcomm®️ Quick Charge™️4, Corning® ️Gorilla® ️Glass 5, Type-C charging port Variants: 4GB+64GB and 6GB+128GB ",
+  "offers": {
+      "@type": "Offer",
+      "itemCondition": "http://schema.org/NewCondition",
+      "availability": "http://schema.org/InStock",
+      "price": "10999",
+      "priceCurrency": "INR"
+    }
+  }
+]
