@@ -2,7 +2,11 @@ import html
 import requests
 dataToExtract = '['
 #URL ARRAY ONLY MI SITE
-URLS = ['https://www.mi.com/in/redmi-note-8-pro/','https://www.mi.com/in/redmi-note-9-pro/','https://www.mi.com/in/redmi-note-7-pro/']
+f=  open('phoneurls.txt','r')
+urls=f.read().splitlines()
+
+
+URLS = urls
 for URL in range(0,len(URLS)):
    r = requests.get(url = URLS[URL])                                    #Get HTML by get request
    data = html.unescape(r.text)                                         #removing escape sequence from html
@@ -14,7 +18,6 @@ for URL in range(0,len(URLS)):
 
    if(len(URLS)-1 > URL ):
     dataToExtract+=','                                                  #added for JSON Formating 
-  
 
 dataToExtract += ']'                                                    #added for JSON Formating
 # print(dataToExtract)                                                  #just for Test

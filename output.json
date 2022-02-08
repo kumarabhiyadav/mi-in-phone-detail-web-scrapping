@@ -46,4 +46,323 @@ processor, Qualcomm®️ Quick Charge™️4, Corning® ️Gorilla® ️Glass 5,
     "price": "10999",
     "priceCurrency": "INR"
   }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi 9",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":0},
+"color":"Sporty Orange, Carbon Black, Sky Blue",
+  "brand": "Xiaomi India",
+  "description": "Redmi 9 Specifications: 4GB RAM, 128GB Storage, Helio G35 Octa-core processor 2.3GH, 16.58 (6.53) HD+ IPS Display Immersive Screen, 5000mAh Enhanced Battery, Aura Edge Design and more. Variants: 4GB+64GB and 4GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "8999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi 9 Power",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":0},
+"color":"Blazing Blue, Electric Green, Fiery Red, Mighty Black",
+  "brand": "Xiaomi India",
+  "description": "Redmi 9 Power Specifications: 48MP Quad Camera Array, 6000mAh Enhanced, 16.58cm(6.53) FHD+ IPS Display, Qualcomm®Snapdragon™ 662 Up to 128GB UFS 2.2 Storage, 18W Fast Charge, Corning® Gorilla® Glass 3 and more. Variants: 4GB+128GB, 4GB+64GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "11999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Mi 10T 5G",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":2},
+"color":"Cosmic Black, Lunar Silver",
+  "brand": "Xiaomi India",
+  "description": "Mi 10T Specifications: 30Hz - 144Hz Intelligent AdaptiveSync Display, 16.58 cm (6.53) HD+ IPS Display, 64MP Precision Triple Camera, 5000mAh Enhanced Battery, Qualcomm® Snapdragon™ 865, LPDDR5 RAM + UFS 3.1 Storage, 16.94cm (6.67) TrueColor DotDisplay, 33W Dual-Split Fast Charge, 8K Video Recording+OIS, 5G Wi-Fi 6, Hands-free access to Multiple Voice Assistants and more. Variants: 6GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "35999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi 9A",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":0},
+"color":"Midnight Black, Nature Green, Sea Blue",
+  "brand": "Xiaomi India",
+  "description": "Redmi 9A Specifications: 16.58cm (6.53) HD+ IPS Display, 5000mAh Battery, High-performance Helio G25 Octa-core processor, AI Cameras 13MP Primary and more. Variants: 2GB+32GB and 3GB+32GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "6799",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi 9i",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":0},
+"color":"Midnight Black, Nature Green, Sea Blue",
+  "brand": "Xiaomi India",
+  "description": "Redmi 9i Specifications: 4GB RAM,64GB and 128GB Storage, 16.58 cm (6.53) HD+ IPS Display, High-performance Helio G25 HyperEngine Game Technology, 5000mAh Enhanced Battery and more. Variants: 4GB+64GB and 4GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "8299",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "https://schema.googleapis.com",
+  "@type": "ARArtifact",
+  "arTarget": {
+    "@type": "ARImageTarget",
+    "name" : "Redmi 9 Prime",
+    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/C547384A-D703-A499-09B5-455447BF3393.jpg"
+  },
+  "arAccessSpecification": {
+    "@type": "ARAccessSpecification",    
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "IN"
+      }
+    ]
+  },
+  "arContent": {
+    "@type": "VideoObject",
+    "name": "Redmi 9 Prime - All you need you know!",
+    "embedUrl": "https://www.youtube.com/embed/Eeo3oKRLbIU",
+    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/D60660D6-9AB5-BCBD-F0D3-5FA496CABE26.jpg",
+    "url": "https://www.mi.com/in/redmi-9-prime",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mi.com",
+      "logo": "https://i01.appmifile.com/webfile/globalimg/in/cms/A858F7E7-ABE8-2650-5C56-96B9066D7C6C.jpg"
+    }
+  }
+}
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi 9 Prime",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":6},
+"color":"Matte Black, Mint Green, Space Blue, Sunrise Ray",
+  "brand": "Xiaomi India",
+  "description": "Redmi 9 Prime Specifications: High-performance Helio G80, AI Quad Camera Array, 16.58cms(6.53) FHD+ IPS Display, 5020mAh Fast Charging Battery, Corning Gorilla Glass 3, Splash-Proof protection by P2i and more. Variants: 4GB+64GB and 4GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "9999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi Note 9",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":926},
+"color":"Aqua Green, Artic White, Pebbel Grey",
+  "brand": "Xiaomi India",
+  "description": "Redmi Note 9 Specifiactions: High performance Helio G85, 48MP Quad Camera Array, 5020mAh Fast-Charging Battery, Aura Balance Design, 16.58cm(6.53) FHD+ and more. Variants: 4GB+64GB, 4GB+128GB and 6GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "10999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi Note 9 Pro Max",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":1569},
+"color":"Glacier White, Interstellar Black, Aurora Blue",
+  "brand": "Xiaomi India",
+  "description": "Redmi Note 9 Pro Max Specifications:  64MP Quad Camera Array, 32MP In-Display Selfie Camera, Qualcomm® Snapdragon™ 720G, 33W Fast Charger In-Box and more. Variants: 6GB+64GB, 6GB+128GB and 8GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "15999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi Note 10",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":0},
+"color":"Aqua Greenn, Frost White, Shadow Black",
+  "brand": "Xiaomi India",
+  "description": "Redmi Note 10 Specs: Qualcomm® Snapdragon™ 678 processor, 5000mAh battery, 33W Fast charger(in-box), 16.33cm(6.43) Super AMOLED Display  and more. Variants: 4GB+64GB, 6GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "13499",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi Note 10 Pro",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":0},
+"color":"Dark Night, Glacial Blue, Vintage Brown",
+  "brand": "Xiaomi India",
+  "description": "Redmi Note 10 Pro Max Specs: Qualcomm® Snapdragon™ 732G, Corning® Gorilla® Glass 5, 33W Fast Charger, 5020mAh battery and more. Variants: 6GB+128GB, 8GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "17999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi Note 10 Pro Max",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":0},
+"color":"Dark Night, Glacial Blue, Vintage Brown",
+  "brand": "Xiaomi India",
+  "description": "Redmi Note 10 Pro Max Specs: Qualcomm® Snapdragon™ 732G, Corning® Gorilla® Glass 5, 33W Fast Charger, 512GB expandable storage, 5020mAh battery and more. Variants: 6GB+128GB, 8GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "19999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Mi 10i",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":31},
+"color":"Atlantic Blue, Midnight Black, Pacific Sunrise",
+  "brand": "Xiaomi India",
+  "description": "108MP Rear Camera, Qualcomm®Snapdragon™ 750G, 5G Ready, 120Hz Intelligent AdaptiveSync Display, 4820mAh Battery with 33W Fast Charging and more. Variants: 6GB+128GB, 8GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "21999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Mi 10T 5G",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":2},
+"color":"Cosmic Black, Lunar Silver",
+  "brand": "Xiaomi India",
+  "description": "Mi 10T Specifications: 30Hz - 144Hz Intelligent AdaptiveSync Display, 16.58 cm (6.53) HD+ IPS Display, 64MP Precision Triple Camera, 5000mAh Enhanced Battery, Qualcomm® Snapdragon™ 865, LPDDR5 RAM + UFS 3.1 Storage, 16.94cm (6.67) TrueColor DotDisplay, 33W Dual-Split Fast Charge, 8K Video Recording+OIS, 5G Wi-Fi 6, Hands-free access to Multiple Voice Assistants and more. Variants: 6GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "35999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Mi 10T Pro",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":0},
+"color":"Cosmic Black, Lunar Silver",
+  "brand": "Xiaomi India",
+  "description": "Mi 10T Specifications: 30Hz - 144Hz Intelligent AdaptiveSync Display, 16.58 cm (6.53) HD+ IPS Display, 64MP Precision Triple Camera, 5000mAh Enhanced Battery, Qualcomm® Snapdragon™ 865, LPDDR5 RAM + UFS 3.1 Storage, 16.94cm (6.67) TrueColor DotDisplay, 33W Dual-Split Fast Charge, 8K Video Recording+OIS, 5G Wi-Fi 6, Hands-free access to Multiple Voice Assistants and more. Variants: 8GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "39999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Mi 10",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":31},
+"color":"Twilight Grey, Coral Green",
+  "brand": "Xiaomi India",
+  "description": "108MP Quad Camera + OIS, Qualcomm® Snapdragon™ 865, 16.94cm (6.67) 3D Curved E3 AMOLED Display, LiquidCool 2.0 Vapor Chamber + 6 Stack Graphite + Graphene Cooling System, LPDDR5 RAM + UFS 3.0 Storage, 30W Wireless Charging + 10W Reverse Charging
+",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "49999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Mi 11X",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":0},
+"color":"Celestial Silver, Cosmic Black, Lunar White",
+  "brand": "Xiaomi India",
+  "description": "Mi 11X Specifications: 120Hz E4 AMOLED Display, Qualcomm® Snapdragon™ 870, Dolby Atmos® Dual Speakers, 48MP Primary + 8MP Ultra wide + 5MP TeleMacro Lens and more. Variants: 8GB+128GB, 8GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "29999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Mi 11X Pro",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":0},
+"color":"Celestial Silver, Cosmic Black, Lunar White",
+  "brand": "Xiaomi India",
+  "description": "Mi 11X Pro Specifications: 120Hz E4 AMOLED Display, Qualcomm® Snapdragon™ 888, 108MP HM2 Primary Camera, 4520mAh High-Capacity Battery, and 33W Instant Charge and more. Variants: 8GB+128GB, 8GB+256GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "39999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Mi 11 Ultra",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":1569},
+"color":"Ceramic White, Ceramic Black",
+  "brand": "Xiaomi India",
+  "description": "Mi 11 Ultra Specifications: ✓50MP + 48MP + 48MP Camera ✓ vivid 17.29cm (6.81) 120Hz WQHD+ E4 AMOLED Display ✓Corning® Gorilla® Glass Victus™(Front), IP68 Waterproof ✓5000mAh high-capacity battery with 67W Wired & Wireless Instant Charger and more. Variants: 12GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "69999",
+    "priceCurrency": "INR"
+  }
 }]

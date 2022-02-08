@@ -14,7 +14,7 @@ python main.py
 
 ## How to use 
 
-1.  append URL to URLS array
+1. append URL to URLS array
 2.  run main.py 
 3. get output.json about phone details
 
