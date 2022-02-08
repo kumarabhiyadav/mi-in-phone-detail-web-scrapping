@@ -2,7 +2,7 @@ import html
 import requests
 dataToExtract = '['
 #URL ARRAY ONLY MI SITE
-URLS = ['https://www.mi.com/in/redmi-note-8-pro/','https://www.mi.com/in/redmi-note-9-pro/','https://www.mi.com/in/redmi-note-7-pro/','https://www.mi.com/in/redmi-note-11t-5g']
+URLS = ['https://www.mi.com/in/redmi-note-8-pro/','https://www.mi.com/in/redmi-note-9-pro/','https://www.mi.com/in/redmi-note-7-pro/']
 for URL in range(0,len(URLS)):
    r = requests.get(url = URLS[URL])                                    #Get HTML by get request
    data = html.unescape(r.text)                                         #removing escape sequence from html

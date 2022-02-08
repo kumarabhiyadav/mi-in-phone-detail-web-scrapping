@@ -21,6 +21,7 @@ python main.py
 
 ## Note 
 > This is only for redmi series i will update it later for other series 😅
+> Please don't depend on it it's just a trial
 ---
 
 
