@@ -46,7 +46,7 @@
     "color": "Neptune Blue, Space Black, Nebula Red",
     "brand": "Xiaomi India",
     "description": "48MP AI Dual camera, Qualcomm® Snapdragon™ 675 processor, Qualcomm®️ Quick Charge™️4, Corning® ️Gorilla® ️Glass 5, Type-C charging port Variants: 4GB+64GB and 6GB+128GB ",
-  "offers": {
+    "offers": {
       "@type": "Offer",
       "itemCondition": "http://schema.org/NewCondition",
       "availability": "http://schema.org/InStock",

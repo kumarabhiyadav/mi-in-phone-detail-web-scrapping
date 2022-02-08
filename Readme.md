@@ -19,6 +19,8 @@ python main.py
 3. get output.json about phone details
 
 
+## Note 
+> This is only for redmi series i will update it later for other series 😅
 ---
 
 

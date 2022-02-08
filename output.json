@@ -1,0 +1,109 @@
+[
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi Note 8 Pro",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":9750},
+"color":"Halo White, Gamma Green, Shadow Black",
+  "brand": "Xiaomi India",
+  "description": "Redmi Note 8 Pro Specifications: Helio G90T with LiquidCool Technology, Alexa built-in, Splash-proof design, Protected by P2i, Aura Fluid Design, Type-C | 18W Fast Charger in-box Variants: 6GB+64GB, 6GB+128GB and 8GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "15999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi Note 9 Pro",
+"aggregateRating":{"@type":"AggregateRating","ratingValue":5,"reviewCount":2616},
+"color":"Glacier White, Interstellar Black, Aurora Blue",
+  "brand": "Xiaomi India",
+  "description": "Redmi Note 9 Pro Specifications:  48MP AI Quad Camera Array, 16.9cm (6.67) FHD+ DotDisplay, Qualcomm® Snapdragon™ 720G, Side-Mounted Fingerprint Sensor, 5020mAh batteryand more. Variants: 4GB+64GB and 6GB+128GB",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "12999",
+    "priceCurrency": "INR"
+  }
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Redmi Note 7 Pro",
+"color": "Neptune Blue, Space Black, Nebula Red",
+  "brand": "Xiaomi India",
+  "description": "48MP AI Dual camera, Qualcomm® Snapdragon™ 675
+processor, Qualcomm®️ Quick Charge™️4, Corning® ️Gorilla® ️Glass 5, Type-C charging port Variants:4GB+64GB and 6GB+128GB ",
+  "offers": {
+    "@type": "Offer",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "price": "10999",
+    "priceCurrency": "INR"
+  }
+},IN" lang="en-IN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+  <title>Redmi Note 11T 5G - @₹16,999 | The Next Gen Racer</title>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="Redmi Note 11T 5G Specs: ✓6nm MediaTek Dimensity 810- 5G ✓DUAL 5G ✓5000mAh battery ✓Supports 33W fast charging ✓50MP AI camera">
+
+  
+
+  <meta name="theme-color" content="#ff6700">
+  <meta name="color-scheme" content="light">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="referrer" content="no-referrer-when-downgrade">
+  <link rel="dns-prefetch" href="//i01.appmifile.com/">
+  <link rel="dns-prefetch" href="//i02.appmifile.com/">
+  <link rel="dns-prefetch" href="//i05.appmifile.com/">
+  <link rel="dns-prefetch" href="//s01.appmifile.com/">
+  <link rel="dns-prefetch" href="//s03.appmifile.com/">
+  <link rel="canonical" href="https://www.mi.com/in/redmi-note-11t-5g/">
+  
+
+  
+  
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Xiaomi India">
+  <meta property="og:locale" content="en-IN">
+  <meta property="og:title" content="Redmi Note 11T 5G - @₹16,999 | The Next Gen Racer">
+  <meta property="og:description" content="Redmi Note 11T 5G Specs: ✓6nm MediaTek Dimensity 810- 5G ✓DUAL 5G ✓5000mAh battery ✓Supports 33W fast charging ✓50MP AI camera">
+  <meta property="og:country-name" content="India">
+  <meta itemprop="name" content="Xiaomi in">
+  
+  
+  
+  <meta itemprop="description" content="Redmi Note 11T 5G Specs: ✓6nm MediaTek Dimensity 810- 5G ✓DUAL 5G ✓5000mAh battery ✓Supports 33W fast charging ✓50MP AI camera">
+
+  <meta name="twitter:card" content="Summary">
+  <meta name="twitter:site" content="@XiaomiIndia">
+  <meta name="twitter:creator" content="@XiaomiIndia">
+  
+  <meta name="twitter:title" content="Redmi Note 11T 5G - @₹16,999 | The Next Gen Racer">
+  <meta name="twitter:description" content="Redmi Note 11T 5G Specs: ✓6nm MediaTek Dimensity 810- 5G ✓DUAL 5G ✓5000mAh battery ✓Supports 33W fast charging ✓50MP AI camera">
+  
+
+  <link rel="shortcut icon" href="//s03.appmifile.com/favicon.ico">
+  <link rel="icon" type="image/png" sizes="192x192" href="//i01.appmifile.com/webfile/globalimg/mobile/logo/mi.png">
+  <link rel="apple-touch-icon-precomposed" sizes="196x196" href="//i01.appmifile.com/webfile/globalimg/mobile/logo/mi.png">
+
+  
+    <link href="https://s01.appmifile.com/in/spps_files/product/2.1.27/pc/redmi-note-11t-5g/css/main.css" rel="stylesheet">
+  
+
+  
+  
+
+  
+
+  
+    
+    <script type="text/javascript">!function(e,t,a,r,n,i,o){e.GoogleAnalyticsObject=n,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=1*new Date,i=t.createElement(a),o=t.getElementsByTagName(a)[0],i.async=1,i.src="//www.google-analytics.com/analytics.js",o.parentNode.insertBefore(i,o)}(window,document,"script",0,"ga"),ga("create","UA-51415204-3","auto"),ga("require","displayfeatures"),ga("require","outboundLinkTracker",{shouldTrackOutboundLink:function(e,t){var a=t(e.getAttribute("href")||e.getAttribute("xlink:href"));return!/mi.com$/.test(a.hostname)&&!/^javascript:/.test(a.hostname)}}),ga("require","maxScrollTracker"),ga("send","pageview")]
